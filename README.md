@@ -12,6 +12,6 @@ The Following Microsoft Excel features were incorporated:
 - Pivot
 - Visualisation chats
   
-Dashboard                                       |    Consolidated Data 
-:----------------------------------------------:|:---------------------------------------------:
-![]()                                           |![](Consolidated.jpg)
+Dashboard           |Data Model with Power Pivot      |
+:------------------:|:-------------------------------:|
+![](Wixzin.gif)     |![](After_Modelling.jpg)         |
