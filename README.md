@@ -1,4 +1,4 @@
-# Olufemi's_project
+# Olufemi's_portfolio
 Analytics Portfolio
 
 ## [Project 1: Wixsin Company Revenue Analysis](https://olufemigeorge.github.io/Wixsin_Company_Revenue_Analysis-MS_Excel/)
