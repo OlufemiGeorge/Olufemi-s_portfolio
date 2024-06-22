@@ -11,7 +11,6 @@ The Following Microsoft Excel features were incorporated:
 - Data Modelling with Power Pivot
 - Pivot
 - Visualisation chats
-- 
   
 Dashboard           |Data Model with Power Pivot      |
 :------------------:|:-------------------------------:|
