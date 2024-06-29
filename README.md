@@ -16,4 +16,6 @@ Dashboard           |Data Model with Power Pivot      |
 :------------------:|:-------------------------------:|
 ![](Wixzin.gif)     |![](After_Modelling.jpg)         |
 
+---
+
 ## [Project 1: Healthcare Patient Waitlist Analysis](https://olufemigeorge.github.io/Health_care_patient_waiting_list_vitualization-PowerBI/)
