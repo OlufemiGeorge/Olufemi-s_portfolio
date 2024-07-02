@@ -27,7 +27,7 @@ Skills demonstrated:
 - Tableau Calculations
 - Power point
 
-  ![]()
+  ![](CARDASHBOARD.gif)
 
 
 
